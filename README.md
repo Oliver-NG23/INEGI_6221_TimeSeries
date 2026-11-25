@@ -10,7 +10,8 @@ The healthcare system in Mexico faces a critical low hostpital staffing, accorgi
 
 ### 1. Hallazgo principal
 The graph shows the evolution of financial indicator in Mexico´s hostpital sector from 2013 to 2025 from definitive data.It highlights a consistent increase in personal expenses and total remuneration, while hospital income also grows but with some fluctuations. Mainly after 2020, rising labor costs and expenses may reflect increasing pressure on hospital supplies, these trends are relevants to focus on the issue of low hospital staff.
-![Hospital Trends](img/Hospital Trends.png)
+
+![Hospital Trends](Hospital%20Trends.png)
 
 ### 2. Comparativa de métricas
 
