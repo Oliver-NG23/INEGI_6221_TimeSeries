@@ -2,13 +2,13 @@
 
 The healthcare system in Mexico faces a critical low hostpital staffing, accorging to news reports and constant strikes, operating below the international standards. This issue is exacerbated by a unequal distribution of the hospital staff, leading to hospital overcrowding, delays on the service,shortage of medical supplies ,and a long working hours that compromises both, quality of care attention and the well-being of heathcare workers.
 
-## Objetivos
+## Goals
 * Analyze relationships between the variables.
 * Build a model to predict hospital staff.
 
-## Resultados y Visualizaciones
+## Findings
 
-### 1. Hallazgo principal
+### 1. Trends
 The graph shows the evolution of financial indicator in Mexico´s hostpital sector from 2013 to 2025 from definitive data.It highlights a consistent increase in personal expenses and total remuneration, while hospital income also grows but with some fluctuations. Mainly after 2020, rising labor costs and expenses may reflect increasing pressure on hospital supplies, these trends are relevants to focus on the issue of low hospital staff.
 
 ![Hospital Trends](Hospital%20Trends.png)
