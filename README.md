@@ -1,4 +1,4 @@
-# Time Series de Sector Hospitalario 6221 INEGI 
+# Time Series of Healthcare System 6221 INEGI 
 
 The healthcare system in Mexico faces a critical low hostpital staffing, accorging to news reports and constant strikes, operating below the international standards. This issue is exacerbated by a unequal distribution of the hospital staff, leading to hospital overcrowding, delays on the service,shortage of medical supplies ,and a long working hours that compromises both, quality of care attention and the well-being of heathcare workers.
 
