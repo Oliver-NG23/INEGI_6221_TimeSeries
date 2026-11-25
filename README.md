@@ -1,16 +1,15 @@
-# Análisis de [Tema de tu Proyecto]
+# Time Series de Sector Hospitalario 6221 INEGI 
 
-Descripción breve del problema que resuelves y los datos utilizados.
+The healthcare system in Mexico faces a critical low hostpital staffing, accorging to news reports and constant strikes, operating below the international standards. This issue is exacerbated by a unequal distribution of the hospital staff, leading to hospital overcrowding, delays on the service,shortage of medical supplies ,and a long working hours that compromises both, quality of care attention and the well-being of heathcare workers.
 
 ## Objetivos
-* Analizar el comportamiento de [variable X].
-* Construir un modelo / visualización para [objetivo Y].
+* Analyze relationships between the variables.
+* Build a model to predict hospital staff.
 
 ## Resultados y Visualizaciones
 
 ### 1. Hallazgo principal
-Explica brevemente qué muestra la gráfica y qué significa para el proyecto.
-
+The graph shows the evolution of financial indicator in Mexico´s hostpital sector from 2013 to 2025 from definitive data.It highlights a consistent increase in personal expenses and total remuneration, while hospital income also grows but with some fluctuations. Mainly after 2020, rising labor costs and expenses may reflect increasing pressure on hospital supplies, these trends are relevants to focus on the issue of low hospital staff.
 ![Nombre de la gráfica 1](img/grafica1.png)
 
 ### 2. Comparativa de métricas
